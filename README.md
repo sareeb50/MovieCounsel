@@ -3,7 +3,7 @@ A python based desktop app that recommends movies based on your mood
 
 This program uses web scrapping using BeautifulSoup4 and GUI using PyQt5
 
-## Prerequsites
+## Pre-requisites
 before you start using it make sure you have python installed and the following libraries
  1. bs4
  2. lxml
